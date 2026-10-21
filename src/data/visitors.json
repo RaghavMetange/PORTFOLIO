@@ -1,0 +1,89 @@
+[
+  {
+    "id": "vis_1792560223715_bkgwl4",
+    "ip": "::1",
+    "name": "Anonymous Visitor",
+    "isNamed": false,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+    "browser": "Edge",
+    "os": "Windows 10/11",
+    "deviceType": "desktop",
+    "country": "Local Network",
+    "countryCode": "DEV",
+    "city": "Developer Workstation",
+    "region": "Localhost",
+    "firstVisitedAt": "2026-10-21T05:23:43.916Z",
+    "lastActiveAt": "2026-10-21T08:19:15.397Z",
+    "visitCount": 12,
+    "visitedPages": [
+      "/"
+    ]
+  },
+  {
+    "id": "test_recruiter_01",
+    "ip": "::1",
+    "name": "Sarah (Tech Recruiter)",
+    "isNamed": true,
+    "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.9711",
+    "browser": "Unknown Browser",
+    "os": "Windows 10/11",
+    "deviceType": "desktop",
+    "country": "Local Network",
+    "countryCode": "DEV",
+    "city": "Developer Workstation",
+    "region": "Localhost",
+    "firstVisitedAt": "2026-10-21T05:21:24.443Z",
+    "lastActiveAt": "2026-10-21T05:21:24.443Z",
+    "visitCount": 1,
+    "visitedPages": [
+      "/"
+    ],
+    "notes": "Impressive systems projects"
+  },
+  {
+    "id": "vis_sample_01",
+    "ip": "104.28.142.90",
+    "name": "Sarah Chen (Tech Recruiter)",
+    "isNamed": true,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "browser": "Chrome 120",
+    "os": "macOS",
+    "deviceType": "desktop",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "San Francisco",
+    "region": "California",
+    "firstVisitedAt": "2026-10-20T14:32:00.000Z",
+    "lastActiveAt": "2026-10-21T04:15:00.000Z",
+    "visitCount": 4,
+    "visitedPages": [
+      "/",
+      "#projects",
+      "#skills"
+    ],
+    "notes": "Reviewed portfolio for Summer 2027 SWE Intern role"
+  },
+  {
+    "id": "vis_sample_02",
+    "ip": "49.207.214.12",
+    "name": "Arjun Sharma (Senior Eng)",
+    "isNamed": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "browser": "Chrome 122",
+    "os": "Windows 11",
+    "deviceType": "desktop",
+    "country": "India",
+    "countryCode": "IN",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "firstVisitedAt": "2026-10-21T02:10:00.000Z",
+    "lastActiveAt": "2026-10-21T03:45:00.000Z",
+    "visitCount": 2,
+    "visitedPages": [
+      "/",
+      "#terminal",
+      "#projects"
+    ],
+    "notes": "Interested in distributed systems project"
+  }
+]
